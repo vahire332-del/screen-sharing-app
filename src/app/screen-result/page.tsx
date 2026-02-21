@@ -172,11 +172,7 @@ export default function ScreenResultPage() {
         </Card>
       </main>
 
-      <Footer>
-        <p className="text-xs" style={{ color: "var(--text-faint)" }}>
-          © 2024 Screen Share Test App. All technical reports are stored for 24 hours.
-        </p>
-      </Footer>
+      <Footer/>
     </div>
   );
 }
