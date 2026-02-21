@@ -74,27 +74,27 @@ This application requires browsers that support the `navigator.mediaDevices.getD
 ## 📸 Application Screenshots
 
 ### Home Page
-![Home Page](/images/Homepage.png)
+![Home Page](https://github.com/yourusername/screen-share-app/blob/main/public/images/Homepage.png?raw=true)
 *Clean, modern interface with clear call-to-action and browser compatibility check*
 
 ### Alternative Home View
-![Alternative Home View](/images/Homepage2.png)
+![Alternative Home View](https://github.com/yourusername/screen-share-app/blob/main/public/images/Homepage2.png?raw=true)
 *Different layout option showcasing responsive design*
 
 ### Permission Dialog
-![Permission Dialog](/images/permission.png)
+![Permission Dialog](https://github.com/yourusername/screen-share-app/blob/main/public/images/permission.png?raw=true)
 *Browser permission prompt for screen sharing access*
 
 ### Screen Test Interface
-![Screen Test](/images/screen-test.png)
+![Screen Test](https://github.com/yourusername/screen-share-app/blob/main/public/images/screen-test.png?raw=true)
 *Real-time screen sharing with quality monitoring and technical metadata*
 
 ### Results Page
-![Results Page](/images/result.png)
+![Results Page](https://github.com/yourusername/screen-share-app/blob/main/public/images/result.png?raw=true)
 *Session summary with duration, resolution, and captured frame*
 
 ### Full Application View
-![Full View](/images/viewpage.png)
+![Full View](https://github.com/yourusername/screen-share-app/blob/main/public/images/viewpage.png?raw=true)
 *Complete application workflow showing all features*
 
 ## 🏗️ Project Structure
