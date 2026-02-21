@@ -99,21 +99,7 @@ export default function HomePage() {
         {/* ── How-to section ── */}
         <section className="max-w-7xl mx-auto px-4 sm:px-6 py-12 sm:py-16">
           <div className="grid lg:grid-cols-2 gap-14 items-start">
-            {/* Preview mock */}
-            <div
-              className="aspect-video rounded-2xl flex flex-col items-center justify-center gap-3 relative overflow-hidden"
-              style={{ background: "var(--bg-subtle)", border: "1px solid var(--border)" }}
-            >
-              <div
-                className="p-6 rounded-full"
-                style={{ background: "var(--bg)", border: "1px solid var(--border)" }}
-              >
-                <IoDesktop className="text-5xl" style={{ color: "var(--text-muted)" }} />
-              </div>
-              <p className="text-sm font-medium" style={{ color: "var(--text-muted)" }}>
-                Test preview will appear here
-              </p>
-            </div>
+           
 
             {/* Steps */}
             <div>
