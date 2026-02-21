@@ -94,7 +94,7 @@ This application requires browsers that support the `navigator.mediaDevices.getD
 *Session summary with duration, resolution, and captured frame*
 
 ### Full Application View
-![Full View](/images/view page.png)
+![Full View](/images/viewpage.png)
 *Complete application workflow showing all features*
 
 ## 🏗️ Project Structure
