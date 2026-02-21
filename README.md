@@ -74,27 +74,27 @@ This application requires browsers that support the `navigator.mediaDevices.getD
 ## 📸 Application Screenshots
 
 ### Home Page
-![Home Page](./images/Homepage.png)
+![Home Page](/images/Homepage.png)
 *Clean, modern interface with clear call-to-action and browser compatibility check*
 
 ### Alternative Home View
-![Alternative Home View](./images/Homepage2.png)
+![Alternative Home View](/images/Homepage2.png)
 *Different layout option showcasing responsive design*
 
 ### Permission Dialog
-![Permission Dialog](./images/permission.png)
+![Permission Dialog](/images/permission.png)
 *Browser permission prompt for screen sharing access*
 
 ### Screen Test Interface
-![Screen Test](./images/screen-test.png)
+![Screen Test](/images/screen-test.png)
 *Real-time screen sharing with quality monitoring and technical metadata*
 
 ### Results Page
-![Results Page](./images/result.png)
+![Results Page](/images/result.png)
 *Session summary with duration, resolution, and captured frame*
 
 ### Full Application View
-![Full View](./images/view page.png)
+![Full View](/images/view page.png)
 *Complete application workflow showing all features*
 
 ## 🏗️ Project Structure
