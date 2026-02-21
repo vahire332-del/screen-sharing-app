@@ -81,21 +81,21 @@ This application requires browsers that support the `navigator.mediaDevices.getD
 ![Alternative Home View](./images/Homepage2.png)
 *Different layout option showcasing responsive design*
 
-### Permission Dialog
-![Permission Dialog](./images/permission.png)
-*Browser permission prompt for screen sharing access*
-
 ### Screen Test Interface
 ![Screen Test](./images/screen-test.png)
 *Real-time screen sharing with quality monitoring and technical metadata*
 
-### Results Page
-![Results Page](./images/result.png)
-*Session summary with duration, resolution, and captured frame*
+### Permission Dialog
+![Permission Dialog](./images/permission.png)
+*Browser permission prompt for screen sharing access*
 
 ### Full Application View
 ![Full View](./images/viewpage.png)
 *Complete application workflow showing all features*
+
+### Results Page
+![Results Page](./images/result.png)
+*Session summary with duration, resolution, and captured frame*
 
 ## 🏗️ Project Structure
 
