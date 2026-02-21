@@ -85,7 +85,7 @@ export default function HomePage() {
             >
                 <p className="text-xs font-bold uppercase tracking-widest mb-1">Browser unsupported</p>
                 <p className="text-sm leading-relaxed">
-                  Your browser does not support screen sharing via <span className="font-mono">navigator.mediaDevices.getDisplayMedia</span>.
+                  Your browser does not support screen sharing .
                   Please use a recent desktop version of Chrome or Edge.
                 </p>
               </Card>
